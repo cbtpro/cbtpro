@@ -2,7 +2,7 @@
 
 :link: https://blog.chenbitao.com/
 
-[![陈碧滔's GitHub stats](https://github-readme-stats.vercel.app/api?username=cbtpro&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![陈碧滔's GitHub stats](https://github-readme-stats.vercel.app/api?username=cbtpro&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
