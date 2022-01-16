@@ -8,4 +8,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cbtpro&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://app.daily.dev/cbtpro"><img src="https://api.daily.dev/devcards/d71347bb37914bc09f1b12acef76bce7.png?r=gf7" width="400" alt="peter chen's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/rebelchris/rebelchris/blob/master/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
