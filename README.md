@@ -17,4 +17,13 @@
 <a href="https://app.daily.dev/cbtpro"><img src="https://github.com/cbtpro/cbtpro/blob/main/devcard.svg" width="400" alt="peter chen's Dev Card"/></a>
 
 <!--START_SECTION:waka-->
+
+```txt
+TypeScript           9 hrs 34 mins   █████████████▒░░░░░░░░░░░   53.85 %
+Vue.js               6 hrs 18 mins   █████████░░░░░░░░░░░░░░░░   35.52 %
+JSON                 1 hr 5 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.16 %
+Other                14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
+YAML                 12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
+```
+
 <!--END_SECTION:waka-->
