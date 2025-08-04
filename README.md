@@ -1,6 +1,6 @@
 ### Go as far as you can see; when you get there, you’ll be able to see farther. :rocket:
 
-:link: https://blog.chenbitao.com/
+:link: [https://blog.chenbitao.com/](https://juejin.cn/user/905653310988445)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cbtpro/cbtpro/output/github-snake-dark.svg" />
