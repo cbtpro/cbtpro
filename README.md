@@ -39,7 +39,7 @@ No activity tracked
 ```
 
 <!--END_SECTION:waka-->
-
-[![陈碧滔's GitHub stats](https://github-readme-stats.vercel.app/api?username=cbtpro&count_private=true&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cbtpro&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=cbtpro&show_icons=true&count_private=true&hide_border=true" />
+  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cbtpro&layout=compact&hide_border=true" />
+</p>
