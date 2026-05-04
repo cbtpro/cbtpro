@@ -43,3 +43,13 @@ No activity tracked
   <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=cbtpro&show_icons=true&count_private=true&hide_border=true" />
   <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cbtpro&layout=compact&hide_border=true" />
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=cbtpro&theme=tokyonight&hide_border=true" />
+</p>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=cbtpro&theme=github-compact&hide_border=true" />
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=cbtpro&theme=onedark&no-frame=true&row=1&column=6" />
+</p>
