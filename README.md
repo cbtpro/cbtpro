@@ -72,4 +72,4 @@ JavaScript   0 secs          ░░░░░░░░░░░░░░░░░
   <img alt="GitHub 连续贡献统计" src="https://streak-stats.demolab.com?user=cbtpro&theme=tokyonight&hide_border=true" />
 </p>
 
-[查看 GitHub 贡献记录](https://github.com/cbtpro#contribution-activity) · [查看 GitHub 成就](https://github.com/cbtpro?tab=achievements)
+[查看 GitHub 贡献记录](https://github.com/cbtpro#js-contribution-activity) · [查看 GitHub 成就](https://github.com/cbtpro?tab=achievements)
