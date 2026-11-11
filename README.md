@@ -44,6 +44,8 @@
   </picture>
 </p>
 
+### 最近 7 天的编码时间
+
 <!--START_SECTION:waka-->
 
 ```txt
@@ -55,17 +57,19 @@ JavaScript   0 secs          ░░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+
+### 仓库统计
+
 <p align="center">
-  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=cbtpro&show_icons=true&count_private=true&hide_border=true" />
-  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cbtpro&layout=compact&hide_border=true" />
+  <img alt="GitHub 仓库统计" src="https://github-readme-stats-sigma-five.vercel.app/api?username=cbtpro&show_icons=true&count_private=true&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=cbtpro&theme=tokyonight&hide_border=true" />
+  <img alt="仓库语言分布" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cbtpro&layout=compact&hide_border=true" />
 </p>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=cbtpro&theme=github-compact&hide_border=true" />
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=cbtpro&theme=onedark&no-frame=true&row=1&column=6" />
+  <img alt="GitHub 连续贡献统计" src="https://streak-stats.demolab.com?user=cbtpro&theme=tokyonight&hide_border=true" />
 </p>
+
+[查看 GitHub 贡献记录](https://github.com/cbtpro#contribution-activity) · [查看 GitHub 成就](https://github.com/cbtpro?tab=achievements)
