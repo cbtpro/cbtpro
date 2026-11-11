@@ -20,6 +20,11 @@
 
 <br clear="right" />
 
+## 动手试试
+
+- [Loading Effects · 动效实验室](https://blog.chenbitao.com/loading-effects/playground/) · 试玩点阵和粒子动效，实时调参后复制接入代码。[源码](https://github.com/cbtpro/loading-effects)
+- [好彩头 · 庆祝效果实验室](https://cbtpro.github.io/congrats/) · 发射彩纸、放飞气球，调节风力和重力，组合自己的庆祝动画。[源码](https://github.com/cbtpro/congrats)
+
 ## GitHub 活动
 
 <p align="center">
