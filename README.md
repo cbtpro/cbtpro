@@ -1,6 +1,16 @@
-### Go as far as you can see; when you get there, you’ll be able to see farther. :rocket:
+# 陈碧滔 · cbtpro
 
-:link: [https://juejin.cn/user/905653310988445](https://juejin.cn/user/905653310988445)
+> Go as far as you can see; when you get there, you’ll be able to see farther.
+
+[技术博客](https://blog.chenbitao.com/) · [掘金](https://juejin.cn/user/905653310988445)
+
+## 项目
+
+- [spring-jekyll-theme](https://github.com/cbtpro/spring-jekyll-theme) · Jekyll 博客主题
+- [typescript-in-action](https://github.com/cbtpro/typescript-in-action) · 从零搭建 Webpack 5 工程，在严格模式下练习 TypeScript
+- [vue3-in-action](https://github.com/cbtpro/vue3-in-action) · Vue 3 实践项目
+
+## 技术栈
 
 <p align="center">
   <!-- 前端技术 -->
@@ -24,11 +34,13 @@
   <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white">
 </p>
 
+## GitHub 活动
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cbtpro/cbtpro/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cbtpro/cbtpro/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/cbtpro/cbtpro/output/github-snake.svg" />
+    <img alt="GitHub 贡献日历动画" src="https://raw.githubusercontent.com/cbtpro/cbtpro/output/github-snake.svg" />
   </picture>
 </p>
 
